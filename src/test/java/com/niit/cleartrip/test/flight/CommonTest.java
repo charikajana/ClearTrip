@@ -7,7 +7,6 @@ public class CommonTest {
 	public static void main(String[] args) {
 		cleartrip=new ClearTrip();
 		cleartrip.registration.successful_registration();
-		//Comment added by Venu
 	}
 
 }
