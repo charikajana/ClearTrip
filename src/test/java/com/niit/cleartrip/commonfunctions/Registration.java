@@ -44,4 +44,7 @@ WebDriverInitialization webdriverintraction;
 		webdriverintraction.click("com.cleartrip.flights.userAccount.register.signUp");
 	}
 
+	public void newMethod(){
+		System.out.println("new method added");
+	}
 }
