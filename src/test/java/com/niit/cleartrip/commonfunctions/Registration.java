@@ -13,7 +13,6 @@ WebDriverInitialization webdriverintraction;
 
 	public void successful_registration(){
 		webdriverintraction.click("com.cleartrip.flights.userAccount");
-		//line added by Venu
 		webdriverintraction.click("com.cleartrip.flights.userAccount.register");
 		webdriverintraction.implicitwait(10);
 		webdriverintraction.SWITCHTOFRAME_BYUSING_NAME("modal_window");
