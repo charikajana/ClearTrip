@@ -1,15 +1,5 @@
 package com.niit.cleartrip.commonfunctions;
 
-import java.io.IOException;
-import java.util.concurrent.TimeUnit;
-
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.Select;
-
-import com.niit.cleartrip.fileoperations.LoadProperties;
-import com.niit.cleartrip.webdriverutil.ByClass;
-
 public class ClearTrip_Flights {
 /*	
 	public static GenericMethods genericMethods;

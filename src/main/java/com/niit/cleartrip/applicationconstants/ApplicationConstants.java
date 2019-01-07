@@ -1,7 +1,5 @@
 package com.niit.cleartrip.applicationconstants;
 
-import com.niit.cleartrip.fileoperations.LoadProperties;
-
 public class ApplicationConstants {
 	public static String URL="URL";
 	//public static String URL=LoadProperties.getDerivedProperty(URL);//Added by Venu on 1/6
