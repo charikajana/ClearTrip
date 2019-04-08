@@ -15,6 +15,11 @@ import com.niit.cleartrip.applicationconstants.ApplicationConstants;
 import com.niit.cleartrip.fileoperations.LoadProperties;
 
 public class BrowserFactory {	
+	
+	
+	
+	
+	
 	public static WebDriver driver;
 	static Logger logger=Logger.getLogger("BrowserFactory");
 	public static WebDriver getdesiredbrowser(){
